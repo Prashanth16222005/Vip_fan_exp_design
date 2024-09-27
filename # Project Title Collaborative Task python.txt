@@ -1,0 +1,32 @@
+# Project Title: Collaborative Task Management System
+
+## Description
+The Collaborative Task Management System is designed to help teams and individuals organize their tasks efficiently. The application allows users to create, assign, and track tasks while collaborating seamlessly with team members. By providing an intuitive interface and robust features, this system aims to enhance productivity and improve team dynamics.
+
+## Problem Statement
+In a collaborative work environment, managing tasks can be a challenge, especially when multiple people are involved. Teams often face difficulties in tracking progress, assigning responsibilities, and meeting deadlines. Current task management solutions may lack effective collaboration features, leading to miscommunication and inefficiencies. This project addresses these issues by offering a centralized platform that allows users to manage tasks collectively, ensuring clear accountability and streamlined workflows.
+
+## Features
+- **User Registration and Authentication**: Secure access to the platform.
+- **Task Creation and Assignment**: Create tasks and assign them to team members.
+- **Progress Tracking**: Monitor the status of each task (not started, in progress, completed).
+- **Comments and File Attachments**: Collaborate directly on tasks by adding comments and uploading relevant documents.
+- **Due Dates and Notifications**: Set deadlines and receive reminders for upcoming tasks.
+- **User Roles and Permissions**: Define user roles to control access to different features.
+
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Version Control**: Git and GitHub
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/collaborative-task-management.git
+Name	                  Roll Number
+Mohammad Kouser	             001
+Mohammad Mehraj Fatima	     002
+Mohammad Mohseen	     003
+Akshay	                     004
+Prashanth K	             005
